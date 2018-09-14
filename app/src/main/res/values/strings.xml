@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Tourist Place in Chittagong</string>
+
+    <string name="Chittagong_Details">
+        Chittagong , officially known as Chattogram, is a major coastal city and financial center in southeastern Bangladesh.
+    </string>
+
+
+    <string-array name="content_name">
+
+        <item>	Foy\'s Lake	</item>
+        <item>	Patenga Sea Beach	</item>
+        <item>	Ethnological Museum	</item>
+        <item>	Shrine of Bayazid Bostami	</item>
+        <item>	Zia Memorial Museum	</item>
+        <item>	Butterfly Park Bangladesh	</item>
+        <item>	Shishu Park	</item>
+        <item>	Chittagong Zoo	</item>
+        <item>	Shadhinata Complex	</item>
+        <item>	Nazrul Square, DC Hill	</item>
+        <item>	Sunset Point	</item>
+        <item>	Cheragi Pahar	</item>
+        <item>	Sea World	</item>
+        <item>	CVASU Anatomy museum	</item>
+        <item>	Cafe 24 Park	</item>
+        <item>	Bhatiyari Lake	</item>
+        <item> Agrabad Jamburi Park </item>
+
+
+    </string-array>
+
+
+    <string-array name="content_type">
+
+        <item>	Lake and park	</item>
+        <item>	Busy beach with boating and street food	</item>
+        <item>	Museum	</item>
+        <item>	Shrine	</item>
+        <item>	Museum	</item>
+        <item>	Park	</item>
+        <item>	Park	</item>
+        <item>	Zoo	</item>
+        <item>	Amusement park	</item>
+        <item>	City Park	</item>
+        <item>	Tourist attraction in Bhatiari	</item>
+        <item>	Historical place	</item>
+        <item>	Water park 	</item>
+        <item>	museum	</item>
+        <item>	Park	</item>
+        <item>	Tourist attraction	</item>
+        <item>  Park </item>
+    </string-array>
+
+    <string-array name="content_details">
+
+        <item>	Foy\'s Lake is a man-made lake in Chittagong, Bangladesh. It was created in 1924 by constructing a dam across the stream that came down from the hills in the northern part of Chittagong.
+        </item>
+        <item>	Patenga is a sea beach located 14 kilometres south of the port city of Chittagong, Bangladesh. It is near the mouth of the Karnaphuli River.
+        </item>
+        <item>	The Ethnological Museum of Chittagong is the only ethnological museum in Bangladesh and is located in Agrabad, Chittagong. The Museum contains displays featuring the history of Bangladesh's tribal people.
+        </item>
+        <item>	The Shrine of Bayazid Bostami is a shrine in Chittagong, Bangladesh. Bayazid Bostami was a famous Persian Sufi born in Bostam, Iran.
+        </item>
+        <item>	Stately museum and locale of President Ziaur Rahman's murder, with historical exhibits and lush grounds.
+        </item>
+        <item>	This tropical garden park with water features and playgrounds is home to some 4,000 butterflies.
+        </item>
+        <item>	This is one of the oldest Children play ground. Foys lake amusement park is bit far from the main city, but this is located at the heart of the Chittagong city just beside the M. A Aziz Stadium.
+        </item>
+        <item>	Chittagong Zoo is a Zoo in Chittagong, Bangladesh. With an area of 6 acres of land it is located about three kilometers north-east of the city, alongside at the entrance of Foy's lake, opposite the foothills of the mountains of USTC Medical College.
+        </item>
+        <item>	shadhinata complex is a organization for the better economical improvement of life style of our beloved freedom fighters whom fought for independence.
+        </item>
+        <item>	DC Hill offers more good views over Chittagong if you feel the need to climb above the traffic haze.
+        </item>
+        <item>	The Most wonderful place of the Bhatiary Hill is the Sunset Point. It is named as Sunset Point because the visitors can enjoy the sunset into the sea from this top part of the hill! There is a restaurant beside it where can you taste some quality snacks like Kabab with porota, Chotpoti and so on.
+        </item>
+        <item>	Cheragi Pahar (sometimes written Cheragee Pahar) is a cultural and historical place located at Chittagong, Bangladesh.
+        </item>
+        <item>	Sea World is a water theme park located in the heart of Chittagong in Foy’s Lake.
+        </item>
+        <item>  museum
+        </item>
+        <item>	Park
+        </item>
+        <item>	Bhatiary is a place situated at Bhatiary Union in Sitakunda, Chittagong. It is famous for tourism spot in Chittagong.
+        </item>
+        <item>
+        Jamboree Park (also spelled as Jamburi Park) is an urban park in Chittagong, Bangladesh. It is located at SM Morshed Road, and the most visited urban park in Chittagong.        The park was established in 2018 on 8.55 acres (3.46 ha) of land acquired by the city.
+        </item>
+    </string-array>
+
+
+    <string-array name="hotel_list">
+        <item>The peninsula</item>
+        <item>Radisson Blu</item>
+        <item>Hotel Agrabad</item>
+        <item>Hotel Tower Inn</item>
+        <item>Brisa Marina Cbc</item>
+        <item>Well Park Residence Boutique Hotel</item>
+        <item>Meridian Hotel</item>
+        <item>Aristos Boutique Hotel</item>
+        <item>Hotel Star Park</item>
+        <item>Hotel Diamond</item>
+        <item>Foys Lake Resort</item>
+
+
+    </string-array>
+
+
+</resources>
